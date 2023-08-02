@@ -1,7 +1,7 @@
 
 
 class FinancialInstrument():
-    def __int__(self, ticker, start, end):
+    def __init__(self, ticker, start, end):
         self.ticker = ticker
         self.start  = start
         self.end    = end
