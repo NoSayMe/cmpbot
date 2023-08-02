@@ -1,0 +1,1 @@
+Tu budem pisat ako pracovat s tymto projektom
