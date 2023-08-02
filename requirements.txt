@@ -1,0 +1,5 @@
+# Prerequisities
+
+pip==23.2.1
+numpy==1.25.2
+pandas==2.0.3
